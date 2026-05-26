@@ -1,0 +1,25 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "cinebox-1103",
+                    "appId": "1:209710918355:android:71de3557e6759110830226",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "cinebox-1103",
+                    "configurations": {
+                        "android": "1:209710918355:android:71de3557e6759110830226",
+                        "ios": "1:209710918355:ios:0e3071cc0cb2cb0b830226",
+                        "macos": "1:209710918355:ios:0e3071cc0cb2cb0b830226",
+                        "web": "1:209710918355:web:160f6c3e38fc7d64830226",
+                        "windows": "1:209710918355:web:639165752db09f4d830226"
+                    }
+                }
+            }
+        }
+    }
+}
