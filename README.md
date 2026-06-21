@@ -199,13 +199,17 @@ cinebox/
 
 ---
 
-## Author
-
-Harshit Singhal  
-GitHub: [harshitsinghal11](https://github.com/harshitsinghal11)
-
----
-
 ## License
 
 No license file is currently present in this repository.
+
+---
+
+## Contact
+
+Built by **Harshit** — B.Tech CSE, Manav Rachna University
+
+- [GitHub](https://github.com/harshitsinghal11)
+- [LinkedIn](https://linkedin.com/in/harshitsinghal11)
+
+> _Feel free to reach out if you're building something similar or have questions about the implementation._
